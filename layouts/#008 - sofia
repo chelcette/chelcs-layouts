@@ -2,13 +2,13 @@
 	<tbody>
 		<tr>
 			<td>
-			<div class="uhDark" style="border-color:gray; border-style:ridge; border-width:3px; box-shadow:inset 5000px 6px 5000px white; height:160px; padding:5px; width:330px">
+			<div class="uhDark" style="background-image:linear-gradient(white, white); border-color:gray; border-style:ridge; border-width:3px; height:160px; padding:5px; width:330px">
 			<table align="center" style="height:150px; width:320px">
 				<tbody>
 					<tr>
 						<td colspan="3"><span style="font-size:11pt"><i><span style="font-family:arvo">how i love you with your hair down</span></i></span></td>
 						<td rowspan="2">
-						<div style="border-style:ridge; border-width:2px; height:50px; padding:5px; width:50px"><span style="font-family:arvo"><iframe height="50" src="//www.youtube-nocookie.com/embed/L9l8zCOwEII" width="510"></iframe></span></div>
+						<div style="border-style:ridge; border-width:2px; filter:grayscale(100%); height:60px; overflow:hidden; width:60px"><span style="font-family:arvo"><iframe height="60" src="//www.youtube-nocookie.com/embed/L9l8zCOwEII" width="80"></iframe></span></div>
 						</td>
 					</tr>
 					<tr>
