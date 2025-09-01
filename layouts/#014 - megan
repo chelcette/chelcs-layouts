@@ -2,7 +2,7 @@
 	<tbody>
 		<tr>
 			<td rowspan="4">
-			<div style="background-image:url(https://i.quotev.com/fad6lamapxxq.jpg); background-position:center; background-size:140px; border-color:white; border-style:solid; border-width:4px 4px 20px 4px; height:150px; margin-right:10px; margin-top:-0px; transform:rotate(-4deg); width:100px">&nbsp;</div>
+			<div style="background-image:url(&quot;https://i.quotev.com/fad6lamapxxq.jpg&quot;); background-position:center center; background-size:140px; border-color:#f2ead8; border-style:solid; border-width:4px 4px 20px; height:150px; margin-right:10px; margin-top:0px; text-align:right; transform:rotate(-4deg); width:100px">&nbsp;</div>
 			</td>
 			<td><span style="font-size:11pt">★ chelc&nbsp;</span></td>
 		</tr>
